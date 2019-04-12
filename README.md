@@ -1,4 +1,4 @@
-Documentation
+# Documentation
 
 Directory Structure
 Documentation is stored subfolders under /docs/

@@ -1,7 +1,7 @@
 <!-- _coverpage.md -->
 
 <!-- background -->
-![logo](_media/icons/logo.png ':size=100%')  
+![logo](_media/Icons/logo.png ':size=100%')  
 
 # <b> Application </b>
  <i><span style="color:#727272;font-size:20px"> Brief tagline of app purpose </span></i>
